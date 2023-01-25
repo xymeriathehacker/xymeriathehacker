@@ -4,9 +4,9 @@ I’m interested in *hacking*, *phishing*,  *malwares*, *web dev*
 
 my email is xymeria@gmx.com
 more about me:  
-'''
+'''javascript
 const anmol = {  
-    code: ["Javascript", "Html", "Python", "Java", "php", "Css", "C", "C#" "C++"],  
+  code: ["Javascript", "Html", "Python", "Java", "php", "Css", "C", "C#" "C++"],  
     askMeAbout: ["web dev", "tech", "hacking", "phishing"],  
     technologies: {  
         mobileApp: ["Android App"],  
