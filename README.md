@@ -1,5 +1,9 @@
 Hi, I’m ***xymeriathehacker***
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="100"/>
+</div>
+
 I’m interested in *hacking*, *phishing*,  *malwares*, *web dev*
 
 my email is xymeria@gmx.com
