@@ -3,8 +3,9 @@ Hi, I’m ***xymeriathehacker***
 I’m interested in *hacking*, *phishing*,  *malwares*, *web dev*
 
 my email is xymeria@gmx.com
-more about me
-  const anmol = {
+more about me:  
+'''
+const anmol = {
     code: ["Javascript", "Html", "Python", "Java", "php", "Css", "C", "C#" "C++"],
     askMeAbout: ["web dev", "tech", "hacking", "phishing"],
     technologies: {
@@ -18,3 +19,4 @@ more about me
     },
     currentProject: "I am developing a RAT",
     funFact: "The command to secure your server is ***shutdown now***"
+    '''
