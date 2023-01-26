@@ -1,9 +1,15 @@
-Hi, I’m **xymeriathehacker**
-<img src="https://media.giphy.com/media/TyNiKSSbpMcoveJ75f/giphy.gif" width="500"/>  
-I’m interested in hacking, phishing,  malwares, web dev
+<div align="center">
+  Hi, I’m **xymeriathehacker**
+  <img src="https://media.giphy.com/media/TyNiKSSbpMcoveJ75f/giphy.gif" width="300"/>  
+  I’m interested in hacking, phishing,  malwares, web dev
 
-my email is xymeria@gmx.com  
-my stackoverflow is [Xymeria](https://stackoverflow.com/users/17726057/xymeria)  
+  my email is xymeria@gmx.com  
+  <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/stackoverflow-512.png"><a href="https://stackoverflow.com/users/17726057/xymeria"></a></img>
+  <h1>
+    hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xymeriathehacker)](https://github.com/xymeriathehacker/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=xymeriathehacker&amp;show_icons=true&amp;" alt="My Github Stats">
   
