@@ -25,7 +25,7 @@ const data = {
     currentProject: "I am developing a RAT",  
     funFact: "The command to secure your server is ***shutdown now***"  
 ```
-my  (latest article)[https://github.com/xymeriathehacker/python-ransomware]
+my  [latest article](https://github.com/xymeriathehacker/python-ransomware)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
