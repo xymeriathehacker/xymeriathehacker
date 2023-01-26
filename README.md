@@ -6,7 +6,7 @@
 <a href="xymeria@gmx.com"><img src="https://cdn4.iconfinder.com/data/icons/address-book-providers-in-colors/512/gmx-512.png" width="50"></img></a>
 <h2>hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></img></h2>
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xymeriathehacker)](https://github.com/xymeriathehacker/github-readme-stats)
+[![Top Langs(https://github-readme-stats.vercel.app/api/top-langs/?username=xymeriathehacker)](https://github.com/xymeriathehacker/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=xymeriathehacker&amp;show_icons=true&amp;" alt="My Github Stats">  
 more about me:  
 ```javascript
