@@ -23,7 +23,7 @@ const data = {
         databases: ["MySql", "Nothing else ):"],
     },  
     currentProject: "I am developing a RAT",  
-    funFact: "The command to secure your server is **shutdown now**"  
+    funFact: "The command to secure your server is shutdown now"  
 ```
 my  [latest article](https://github.com/xymeriathehacker/python-ransomware)
 
