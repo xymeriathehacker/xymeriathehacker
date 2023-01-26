@@ -8,9 +8,7 @@ I’m interested in hacking, phishing,  malwares, web dev
 
 my email is xymeria@gmx.com  
 my stackoverflow is [Xymeria](https://stackoverflow.com/users/17726057/xymeria)  
-<div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xymeriathehacker)](https://github.com/xymeriathehacker/github-readme-stats)
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xymeriathehacker)](https://github.com/xymeriathehacker/github-readme-stats)  
 more about me:  
 ```javascript
 const data = {  
@@ -28,9 +26,7 @@ const data = {
 currentProject: "I am developing a RAT",  
 funFact: "The command to secure your server is shutdown now"  
 ```
-<div align="center">
 my  [latest article](https://github.com/xymeriathehacker/python-ransomware)
-</div>
   
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
