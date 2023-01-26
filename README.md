@@ -9,7 +9,7 @@ I’m interested in hacking, phishing,  malwares, web dev
 my email is xymeria@gmx.com  
 my stackoverflow is [Xymeria](https://stackoverflow.com/users/17726057/xymeria)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xymeriathehacker)](https://github.com/xymeriathehacker/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api?username=xymeriathehacker&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=151515" alt="My Github Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=xymeriathehacker&amp;show_icons=true&amp;" alt="My Github Stats">
   
 more about me:  
 ```javascript
