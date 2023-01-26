@@ -4,7 +4,7 @@
 <img src="https://media.giphy.com/media/TyNiKSSbpMcoveJ75f/giphy.gif" width="300"/><br>
 <a href="https://stackoverflow.com/users/17726057/xymeria"><img width="50" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/stackoverflow-512.png"></img></a>
 <a href="xymeria@gmx.com"><img src="https://cdn4.iconfinder.com/data/icons/address-book-providers-in-colors/512/gmx-512.png" width="50"></img></a>
-<h2>hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
+<h2>hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></img></h2>
 </div>
 <h1></h1>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xymeriathehacker)](https://github.com/xymeriathehacker/github-readme-stats)
