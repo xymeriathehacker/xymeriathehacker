@@ -1,7 +1,7 @@
 Hi, I’m **xymeriathehacker**
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/TyNiKSSbpMcoveJ75f/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/TyNiKSSbpMcoveJ75f/giphy.gif" width="200"/>
 </div>
 I’m interested in hacking, phishing,  malwares, web dev
 
