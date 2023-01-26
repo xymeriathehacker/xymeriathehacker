@@ -1,10 +1,9 @@
 <div align="center">
-  Hi, I’m **xymeriathehacker**  
+  Hi, I’m xymeriathehacker  
   <img src="https://media.giphy.com/media/TyNiKSSbpMcoveJ75f/giphy.gif" width="300"/>  
   I’m interested in hacking, phishing,  malwares, web dev  
-
   my email is xymeria@gmx.com  
-  <img width="50" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/stackoverflow-512.png"><a href="https://stackoverflow.com/users/17726057/xymeria"></a></img>
+  <a href="https://stackoverflow.com/users/17726057/xymeria"><img width="50" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/stackoverflow-512.png"></img></a>
   <h1>
     hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
