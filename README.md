@@ -7,23 +7,9 @@
 <h2>hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></img></h2>
 </div>
 <img src="https://github-readme-stats.vercel.app/api?username=xymeriathehacker&amp;show_icons=true&amp;" alt="My Github Stats">
-```javascript
-//more about me:  
-const data = {  
-  code: ["Javascript", "Html", "Python", "Java", "php", "Css", "C", "C#" "C++"],  
-    askMeAbout: ["web dev", "tech", "hacking", "phishing"],  
-    technologies: {  
-        mobileApp: ["Android App"],  
-        frontEnd: ["HTML", "CSS", "JS"], 
-        backEnd: {  
-            Other: ["PHP", "C", "Java"],  
-            python: ["flask", "Django"],  
-        },
-        databases: ["MySql", "Nothing else ):"],
-    }  
+
 currentProject: "I am developing a RAT",  
 funFact: "The command to secure your server is shutdown now"  
-```
 my  [latest article](https://github.com/xymeriathehacker/python-ransomware)
   
 <div>
