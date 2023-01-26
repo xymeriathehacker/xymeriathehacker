@@ -1,5 +1,7 @@
 Hi, I’m **xymeriathehacker**
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xymeriathehacker)](https://github.com/xymeriathehacker/github-readme-stats)
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="500"/>
   <img src="https://media.giphy.com/media/TyNiKSSbpMcoveJ75f/giphy.gif" width="500"/>
