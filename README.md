@@ -1,5 +1,5 @@
 Hi, I’m **xymeriathehacker**
-<img src="https://media.giphy.com/media/TyNiKSSbpMcoveJ75f/giphy.gif" width="700"/>
+<img src="https://media.giphy.com/media/TyNiKSSbpMcoveJ75f/giphy.gif" width="500"/>
 I’m interested in hacking, phishing,  malwares, web dev
 
 my email is xymeria@gmx.com  
