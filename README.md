@@ -3,7 +3,7 @@
 <h1>I'm Xymeria the HACKER</h1>
 you can contact me on:<br>
 <a href="https://stackoverflow.com/users/17726057/xymeria"><img width="50" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/stackoverflow-512.png"></img></a>
-<a href="xymeria@gmx.com"><img src="https://cdn4.iconfinder.com/data/icons/address-book-providers-in-colors/512/gmx-512.png" width="50"></img></a>
+<a href="mailto:xymeria@gmx.com"><img src="https://cdn4.iconfinder.com/data/icons/address-book-providers-in-colors/512/gmx-512.png" width="50"></img></a>
 <h2>hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></img></h2>
 </div>
 <img src="https://github-readme-stats.vercel.app/api?username=xymeriathehacker&amp;show_icons=true&amp;" alt="My Github Stats">
