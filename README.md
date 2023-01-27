@@ -9,8 +9,8 @@ you can contact me on:<br>
 <img src="https://github-readme-stats.vercel.app/api?username=xymeriathehacker&amp;show_icons=true&amp;" alt="My Github Stats">
 
 currentProject: "I am developing a RAT",  
-funFact: "The command to secure your server is shutdown now"  
-my  [latest article](https://github.com/xymeriathehacker/python-ransomware)
+**funFact:** "The command to secure your server is shutdown now"  
+[my latest article](https://github.com/xymeriathehacker/python-ransomware)
   
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
