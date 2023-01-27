@@ -9,8 +9,7 @@ you can contact me on:<br>
 <img src="https://github-readme-stats.vercel.app/api?username=xymeriathehacker&amp;show_icons=true&amp;" alt="My Github Stats">
 
 currentProject: "I am developing a RAT",  
-**funFact:** "The command to secure your server is:"  
->! shutdown now
+**funFact:** "The command to secure your server is: ***shutdown now***"  
 [my latest article](https://github.com/xymeriathehacker/python-ransomware)
   
 <div>
